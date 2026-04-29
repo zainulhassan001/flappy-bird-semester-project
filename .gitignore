@@ -1,0 +1,24 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+Build/
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Documents not needed in repo
+*.docx
