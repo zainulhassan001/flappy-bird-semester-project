@@ -15,8 +15,6 @@ Includes a menu system, difficulty modes, sound effects, scoring, and a power-up
 
 ## Screenshots
 
-Add screenshots in a folder like screenshots/ and link them here:
-
 ![Main Menu](screenshots/menu.png)
 ![Gameplay](screenshots/gameplay.png)
 ![Scoreboard](screenshots/scoreboard.png)
@@ -61,11 +59,6 @@ FlappyBird.exe
 - Up Arrow - Jump
 - Q - Quit during gameplay
 
-## Notes
-
-- Keep the assets/ folder in the same directory as the executable.
-- This project uses windows.h, GetAsyncKeyState, Sleep, and PlaySound, so it is Windows-specific.
-- Do not upload the compiled .exe file to GitHub.
 
 ## Credits
 
